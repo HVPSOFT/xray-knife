@@ -1,4 +1,4 @@
-module github.com/lilendian0x00/xray-knife/v9
+module github.com/HVPSOFT/xray-knife/v9
 
 go 1.25.6
 
